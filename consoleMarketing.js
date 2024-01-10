@@ -72,7 +72,7 @@ class consoleMarketing {
             color: 'white',
             padding: 4,
             borderRadius: 4,
-            groupTitle: 'At SGA we need you!'
+            groupTitle: 'At Company we need you!'
         });
         window.bdl.consoleMarketing.init();
     }
